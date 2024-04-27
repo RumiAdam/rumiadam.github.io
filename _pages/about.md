@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/mauritius.jpg"
+  image: "/images/mauritius1.jpg"
 ---
 
 Moving from civil engineering to the dynamic realm of the tech industry, I embarked on a transformative journey culminating in a STEM degree specializing in business analytics, right here in San Francisco. 
