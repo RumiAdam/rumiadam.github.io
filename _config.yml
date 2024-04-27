@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sophie Briques"
+title                    : "Rumi Adam"
 title_separator          : "-"
-name                     : "Sophie Briques"
+name                     : "Rumi Adam"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
-masthead_title.          : "Data Science Portfolio - Sophie Briques"
+masthead_title.          : "Data Science Portfolio - Rumi Adam"
 
 # SEO Related
 google_site_verification :
@@ -85,11 +85,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sophie Briques"
-  avatar           : "/images/LinkedinHeadshot.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "+41 78 234 22 62"
-  location         : "Switzerland - Europe"
-  email            : "sophiebriques@gmail.com"
+  name             : "Rumi Adam"
+  avatar           : "/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "+1 (415) 697 43 88"
+  location         : "San Francisco"
+  email            : "rumiadam@hotmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sbriques"
+  github           : "RumiAdam"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "sophiebriques" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "rumiadam" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -250,10 +250,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
 
   # _pages
   - scope:
