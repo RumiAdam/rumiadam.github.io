@@ -1,10 +1,15 @@
 ---
-title: "One Piece: Text Adventure!"
+title: "One Piece: Text Adventure"
 date: 2023-10-21
 tags: [python, user-input, game development, text adventure]
 header:
   image: "/images/onepiece.jpg"
-excerpt: """In an era where wealth, fame, and power echoed across the seas, one man's declaration resonated above all, the Pirate King, Gold Roger. As he stood tall on the scaffold, facing the inevitable, his parting words ignited a fervor that would shape the destiny of countless adventurers. 'My treasure? It's yours if you want it. Find it! I left all the world has at that place!' With those words, the Grand Line became the focal point of dreams and aspirations, a vast and treacherous sea promising untold treasures and unimaginable challenges. Gold Roger's execution marked the beginning of a new age: the Great Pirate Era. As the news of his final utterance spread like wildfire, a surge of pirates, young and old, set sail, driven by the desire to claim the greatest treasure of them all: the One Piece. In the wake of this declaration, you, a spirited young pirate, stand at the crossroads of destiny. The choices made in the pursuit of your dreams will echo through the corridors of time. Will you seize the opportunity, face the challenges of the Grand Line, and uncover the mysteries of Gold Roger's legacy? The journey is yours to embark upon, the seas are yours to navigate, and the fabled One Piece awaits those who dare to dream. This is the dawn of your Grand Line Quest!
+excerpt: "An interactive text game in Python with random plot twists and survival challenges. It's like a choose-your-own-adventure game where you need courage and a bit of survival knowledge, especially for a zombie apocalypse scenario. Created using Jupyter Notebooks."
+mathjax: "true"
+---
+
+## The Game
+In an era where wealth, fame, and power echoed across the seas, one man's declaration resonated above all, the Pirate King, Gold Roger. As he stood tall on the scaffold, facing the inevitable, his parting words ignited a fervor that would shape the destiny of countless adventurers. 'My treasure? It's yours if you want it. Find it! I left all the world has at that place!' With those words, the Grand Line became the focal point of dreams and aspirations, a vast and treacherous sea promising untold treasures and unimaginable challenges. Gold Roger's execution marked the beginning of a new age: the Great Pirate Era. As the news of his final utterance spread like wildfire, a surge of pirates, young and old, set sail, driven by the desire to claim the greatest treasure of them all: the One Piece. In the wake of this declaration, you, a spirited young pirate, stand at the crossroads of destiny. The choices made in the pursuit of your dreams will echo through the corridors of time. Will you seize the opportunity, face the challenges of the Grand Line, and uncover the mysteries of Gold Roger's legacy? The journey is yours to embark upon, the seas are yours to navigate, and the fabled One Piece awaits those who dare to dream. This is the dawn of your Grand Line Quest!
 
 As the protagonist of this immersive text adventure game, you step into the worn boots of a young and ambitious pirate. Your journey commences with the news of the Pirate King Gold Roger's demise, a legend whose execution sparked a new era of piracy. The world is abuzz with excitement and trepidation as countless dreamers set sail in pursuit of the ultimate treasure: the One Piece.
 
@@ -12,11 +17,7 @@ Haunted by the shadows of Gold Roger's last words, your character is gripped by 
 
 "My treasure? It's yours if you want it. Find it! I left all the world has there!"
 
-Fueled by the call to adventure, you embark on a quest that will navigate the perilous waters of the Grand Line. The weight of Gold Roger's legacy rests on your shoulders, motivating you to explore uncharted territories, face formidable foes, and uncover the mysteries based on the One Piece story Source: (Oda, E. 1997-present. One Piece. Shueisha)."""
-mathjax: "true"
----
-
-## The Game
+Fueled by the call to adventure, you embark on a quest that will navigate the perilous waters of the Grand Line. The weight of Gold Roger's legacy rests on your shoulders, motivating you to explore uncharted territories, face formidable foes, and uncover the mysteries based on the One Piece story Source: (Oda, E. 1997-present. One Piece. Shueisha).
 
 The game is composed of 3 main stages and 2 transition stages
 
